@@ -6,4 +6,18 @@
   * 添加笔记以及显示时间戳
 #### 开发环境
 使用Android studio进行编译java语言，使用可视化工具，使程序能展现在手机端中
+##### 程序主要代码块
+* notelist_item.xml layout部分用于手机端备注和时间戳的布局设置
+```
+<TextView
+android:id="@+id/text2"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:textAppearance="?android:attr/textAppearanceLarge"
+android:paddingLeft="5dip"
+android:singleLine="true"
+android:textSize="17dp"
+android:gravity="center_vertical"
+    />
+```
 
