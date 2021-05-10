@@ -7,7 +7,7 @@
 #### 开发环境
 使用Android studio进行编译java语言，使用可视化工具，使程序能展现在手机端中
 ##### 程序主要代码块
-*更改gradle配置
+* 更改gradle配置
 ```
 android {
     compileSdkVersion 30
