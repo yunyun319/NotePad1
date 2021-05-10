@@ -89,5 +89,5 @@ public Uri insert(Uri uri, ContentValues initialValues) {
         );
 ```
 #### 运行结果展示
-![image](https://github.com/yunyun319/NotePad1/blob/master/notepadpicture.png)
+![github](https://github.com/yunyun319/NotePad1/blob/master/notepadpicture.png "github")
 
